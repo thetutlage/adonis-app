@@ -1,0 +1,15 @@
+{
+  "name": "adonisjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "iojs --es_staging --use_strict server.js"
+  },
+  "dependencies":{
+    "adonis-framework": "git://github.com/AdonisJs/framework.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
